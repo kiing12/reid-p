@@ -1,1 +1,1 @@
-# reid.p
+Na aula de 04/09 a 05/09, abordamos a criação e configuração de contas no GitHub. Aprendemos a estabelecer e gerenciar repositórios, configurar o Codespace e ajustar o README.md para um perfil pessoal. Utilizamos o site https://profile-readme-generator.com/ para personalizar o perfil, onde exploramos a adição de imagens, textos e a exibição de nossas habilidades e conquistas.
